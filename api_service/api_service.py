@@ -1,4 +1,1 @@
-flask 
-psycopg2-binary 
-gunicorn 
-flask-cors
+
